@@ -1,1 +1,0 @@
-# kernel-prebuilts-common-modules-virtual-device-5.10-riscv64
